@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React<br>🎯Learning coding and applying in real life <br>I am team lead of Team  TechAlchemists and our website is Techalchemists.co.in</p>
+<p align="left">📚 🎯Learning coding and applying in real life <br>I am team lead of Team  TechAlchemists and our website is Techalchemists.co.in</p>
 
 ###
 
