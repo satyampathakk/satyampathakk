@@ -43,5 +43,4 @@
 </div>
 
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyampathakk)](https://github.com/satyampathakk)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyampathakk&show_icons=true)
