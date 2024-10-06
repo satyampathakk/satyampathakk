@@ -19,7 +19,6 @@
   <li><strong>E-commerce Platform (Django)</strong>: A full-stack online store with an intuitive interface.</li>
   <li><strong>Blogging Website (Django REST & React)</strong>: A clean, responsive platform for sharing articles.</li>
   <li><strong>Weather App (Django)</strong>: A real-time weather application with an engaging UI.</li>
-  <li><strong>Mobile App (React Native)</strong>: Cross-platform mobile app development.</li>
   <li><strong>Patent App (Django)</strong>: Designed for students to file patent searches with ease.</li>
   <li><strong>Chat App (React Native)</strong>: An anonymous and privacy-focused chatting app using inbuilt Tor With option to change the servers.</li>
 </ul>
